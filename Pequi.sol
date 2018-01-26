@@ -1,4 +1,4 @@
-contract Pequi {
+contract Maoe {
     mapping (address => uint256) public balanceOf;
 
     function MyToken(
